@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+margin: 20px;
+}
+.navbar{
+    background-color: #48FF33;
+}
+.quem-somos{
+    background-color:#4F514F ;
+}
+.margin{
+  padding-top: 50px;  
+}
