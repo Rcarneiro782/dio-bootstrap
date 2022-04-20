@@ -17,4 +17,16 @@ margin: 20px;
 .margin{
   
   padding-bottom: 50px;
+  padding-top: 10px;
+}
+.parceiros{
+    background-color: #59D1D7;
+    color: wheat;
+}
+.time{
+    padding-top: 20px;
+}
+.bg-footer{
+    background-color: black;
+    color: aliceblue;
 }
